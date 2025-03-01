@@ -37,7 +37,7 @@ Authentication: JWT (JSON Web Token)
 Installation
 
 1. Clone the repository
-
+https://github.com/nikhilprojectwork01/ideoGram-Social-Media-.git
 
 
 2. Install dependencies
